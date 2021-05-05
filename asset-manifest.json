@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Vaccine/static/js/main.b2b424e9.chunk.js",
-    "main.js.map": "/Vaccine/static/js/main.b2b424e9.chunk.js.map",
+    "main.js": "/Vaccine/static/js/main.b2a95f89.chunk.js",
+    "main.js.map": "/Vaccine/static/js/main.b2a95f89.chunk.js.map",
     "runtime-main.js": "/Vaccine/static/js/runtime-main.c70d20c0.js",
     "runtime-main.js.map": "/Vaccine/static/js/runtime-main.c70d20c0.js.map",
     "static/js/2.0574863d.chunk.js": "/Vaccine/static/js/2.0574863d.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c70d20c0.js",
     "static/js/2.0574863d.chunk.js",
-    "static/js/main.b2b424e9.chunk.js"
+    "static/js/main.b2a95f89.chunk.js"
   ]
 }
