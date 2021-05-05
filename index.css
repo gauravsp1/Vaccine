@@ -1,0 +1,81 @@
+
+h1{
+    z-index: -100;
+}
+
+
+.DetailForm{
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    display: flex;
+    height: auto;
+    width: 520px;
+    padding: 15px;
+}
+
+.DetailForm h2{
+    position: absolute;
+    top: -36px;
+    left: 25px;
+    background-color: white;
+}
+
+.Container{
+    margin-bottom: 20px;
+}
+
+#Start{
+    position: absolute;
+    top: 130px;
+    right: 190px;
+}
+
+#Stop{
+    position: absolute;
+    top: 130px;
+    right: 80px;
+}
+
+.HowItWorks{
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    /* border: 1px solid black; */
+    /* display: flex; */
+    height: auto;
+    width: 520px;
+    padding: 15px;
+}
+
+.HowItWorks h1{
+    text-align: center;
+    margin: 50px;
+}
+.HowItWorks p{
+    text-align: center;
+    margin: 50px;
+    font-size: large;
+}
+
+.About{
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    /* border: 1px solid black; */
+    /* display: flex; */
+    height: auto;
+    width: 520px;
+    padding: 15px;
+}
+
+.About h1{
+    text-align: center;
+    margin: 30px;
+}
+.About p{
+    text-align: center;
+    margin: 10px;
+    font-size: large;
+}
