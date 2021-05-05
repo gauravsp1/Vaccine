@@ -63,15 +63,16 @@ function NavBar() {
             <Typography variant="h6" className={classes.title}>
             Vaccine-Notifier
     </Typography>
+    <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/Vaccine" disableRipple className={classes.margin}>
+              Home
+      </BootstrapButton>
               <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/HowItWorks" disableRipple className={classes.margin}>
               How it works?
       </BootstrapButton>             
               <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/About" disableRipple className={classes.margin}>
               About
       </BootstrapButton>
-      <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/Vaccine" disableRipple className={classes.margin}>
-              Home
-      </BootstrapButton>
+     
             </Toolbar>
             </AppBar>
         </>

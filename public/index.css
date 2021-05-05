@@ -13,13 +13,6 @@
        
     }
 }
-@media screen and (max-width: 400px) {
-    #Home{
-        margin: 10px;
-        left: 50px;
-       
-    }
-}
 
 .DetailForm{
     position: relative;
@@ -36,6 +29,12 @@
     position: absolute;
     top: -36px;
     left: 25px;
+    background-color: white;
+}
+.DetailForm a{
+    position: absolute;
+    bottom: -60px;
+    left: 40%;
     background-color: white;
 }
 
@@ -95,4 +94,24 @@
     text-align: center;
     margin: 10px;
     font-size: large;
+}
+
+
+@media screen and (max-width: 400px) {
+    #Home{
+        margin: 10px;
+        left: 50px;
+       
+    }
+    #Start{
+        
+        top: 180px;
+      
+    }
+    
+    #Stop{
+        
+        top: 180px;
+      
+    }
 }
