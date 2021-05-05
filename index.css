@@ -121,9 +121,16 @@
       
     }
     
-    #Stop{
-        
-        top: 180px;
-      
+    #Stop{        
+        top: 180px;      
+    }
+    .DetailForm{      
+        margin-top: 180px;       
+    }
+    .DetailForm h3{       
+        top: -100px;       
+    }
+    .DetailForm h4{       
+        bottom: -60px;
     }
 }
