@@ -125,12 +125,12 @@
         top: 180px;      
     }
     .DetailForm{      
-        margin-top: 180px;       
+        margin-top: 250px;       
     }
     .DetailForm h3{       
-        top: -100px;       
+        top: -200px;       
     }
     .DetailForm h4{       
-        bottom: -60px;
+        bottom: -100px;
     }
 }
