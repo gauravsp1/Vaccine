@@ -70,7 +70,7 @@ function NavBar() {
               <BootstrapButton variant="contained" color="inherit" component={Link} to="/About" disableRipple className={classes.margin}>
               About
       </BootstrapButton>
-      <BootstrapButton variant="contained" color="inherit" component={Link} to="/" disableRipple className={classes.margin}>
+      <BootstrapButton variant="contained" color="inherit" component={Link} to="/Vaccine" disableRipple className={classes.margin}>
               Home
       </BootstrapButton>
             </Toolbar>
