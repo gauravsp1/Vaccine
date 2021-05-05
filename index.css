@@ -31,6 +31,12 @@
     left: 25px;
     background-color: white;
 }
+.DetailForm a{
+    position: absolute;
+    bottom: -60px;
+    left: 40%;
+    background-color: white;
+}
 
 .Container{
     margin-bottom: 20px;
