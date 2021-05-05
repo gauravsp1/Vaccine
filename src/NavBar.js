@@ -60,17 +60,16 @@ function NavBar() {
             <AppBar>
             
             <Toolbar className="nav-container">
-            {/* <h1>Hio</h1> */}
             <Typography variant="h6" className={classes.title}>
             Vaccine-Notifier
     </Typography>
-              <BootstrapButton variant="contained" color="inherit" component={Link} to="/HowItWorks" disableRipple className={classes.margin}>
+              <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/HowItWorks" disableRipple className={classes.margin}>
               How it works?
       </BootstrapButton>             
-              <BootstrapButton variant="contained" color="inherit" component={Link} to="/About" disableRipple className={classes.margin}>
+              <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/About" disableRipple className={classes.margin}>
               About
       </BootstrapButton>
-      <BootstrapButton variant="contained" color="inherit" component={Link} to="/Vaccine" disableRipple className={classes.margin}>
+      <BootstrapButton id="Home" variant="contained" color="inherit" component={Link} to="/Vaccine" disableRipple className={classes.margin}>
               Home
       </BootstrapButton>
             </Toolbar>
