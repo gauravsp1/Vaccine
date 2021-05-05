@@ -37,6 +37,18 @@
     left: 40%;
     background-color: white;
 }
+.DetailForm h3{
+    position: absolute;
+    top: -80px;
+    left: 12%;
+    background-color: white;
+}
+.DetailForm h4{
+    position: absolute;
+    bottom: -40px;
+    left: 0%;
+    background-color: white;
+}
 
 .Container{
     margin-bottom: 20px;

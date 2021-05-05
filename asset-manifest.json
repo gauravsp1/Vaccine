@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Vaccine/static/js/main.5b32b4fc.chunk.js",
-    "main.js.map": "/Vaccine/static/js/main.5b32b4fc.chunk.js.map",
+    "main.js": "/Vaccine/static/js/main.56a73798.chunk.js",
+    "main.js.map": "/Vaccine/static/js/main.56a73798.chunk.js.map",
     "runtime-main.js": "/Vaccine/static/js/runtime-main.c70d20c0.js",
     "runtime-main.js.map": "/Vaccine/static/js/runtime-main.c70d20c0.js.map",
-    "static/js/2.0574863d.chunk.js": "/Vaccine/static/js/2.0574863d.chunk.js",
-    "static/js/2.0574863d.chunk.js.map": "/Vaccine/static/js/2.0574863d.chunk.js.map",
+    "static/js/2.adbea7b4.chunk.js": "/Vaccine/static/js/2.adbea7b4.chunk.js",
+    "static/js/2.adbea7b4.chunk.js.map": "/Vaccine/static/js/2.adbea7b4.chunk.js.map",
     "index.html": "/Vaccine/index.html",
-    "static/js/2.0574863d.chunk.js.LICENSE.txt": "/Vaccine/static/js/2.0574863d.chunk.js.LICENSE.txt"
+    "static/js/2.adbea7b4.chunk.js.LICENSE.txt": "/Vaccine/static/js/2.adbea7b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c70d20c0.js",
-    "static/js/2.0574863d.chunk.js",
-    "static/js/main.5b32b4fc.chunk.js"
+    "static/js/2.adbea7b4.chunk.js",
+    "static/js/main.56a73798.chunk.js"
   ]
 }
