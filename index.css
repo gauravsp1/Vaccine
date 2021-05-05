@@ -24,35 +24,36 @@ body{
     margin: auto;
     margin-top: 150px;
     border: 1px solid black;
+    box-shadow: 2px 2px 15px black;
     display: flex;
     height: auto;
     width: 520px;
     padding: 15px;
+}
+.DetailForm:hover{
+    box-shadow: 2px 2px 15px rgb(129, 126, 126);
 }
 
 .DetailForm h2{
     position: absolute;
     top: -36px;
     left: 25px;
-    background-color: white;
+    background-color: #fff;
 }
 .DetailForm a{
     position: absolute;
     bottom: -60px;
     left: 40%;
-    background-color: white;
 }
 .DetailForm h3{
     position: absolute;
     top: -80px;
     left: 12%;
-    background-color: white;
 }
 .DetailForm h4{
     position: absolute;
     bottom: -60px;
     left: 0%;
-    background-color: white;
 }
 
 .Container{
