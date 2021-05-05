@@ -13,13 +13,6 @@
        
     }
 }
-@media screen and (max-width: 400px) {
-    #Home{
-        margin: 10px;
-        left: 50px;
-       
-    }
-}
 
 .DetailForm{
     position: relative;
@@ -95,4 +88,24 @@
     text-align: center;
     margin: 10px;
     font-size: large;
+}
+
+
+@media screen and (max-width: 400px) {
+    #Home{
+        margin: 10px;
+        left: 50px;
+       
+    }
+    #Start{
+        
+        top: 180px;
+      
+    }
+    
+    #Stop{
+        
+        top: 180px;
+      
+    }
 }
