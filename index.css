@@ -72,6 +72,19 @@ body{
     right: 80px;
 }
 
+.Telegram{
+    position: relative;
+    top: 83px;
+}
+.DistrictList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.DistrictList a{
+    margin: 10px;
+}
+
 .HowItWorks{
     position: relative;
     margin: auto;
